@@ -1,8 +1,6 @@
 hello, let's go fullstack !
 
-admin
-fsy7GzGCMtRFCG4l
-
-
+```
 frontend npm run start
 backend nodemon server
+```
